@@ -35,7 +35,7 @@ Desenvolvedor especializado em back-end, com experiência em arquiteturas escal�
 - 📜 AWS Certified Cloud Practitioner
 
 ## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=denarde&show_icons=true&theme=dracula)
 
 ---
 📫 **Como me encontrar:** [LinkedIn](https://www.linkedin.com/in/luiz-gustavo-denarde-dos-santos-074b10a8/)
